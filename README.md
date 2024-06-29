@@ -13,6 +13,6 @@ Aplikacja umożliwia zarządzanie użytkownikami poprzez dodawanie nowych użytk
 -ASP.NET CORE
 
 
-Uczestnicy projektu:
+### Uczestnicy projektu:
 - Michał Rebizant
 - Sebastian Sikorski
