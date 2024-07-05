@@ -11,6 +11,7 @@ Aplikacja umożliwia zarządzanie użytkownikami poprzez dodawanie nowych użytk
 -Razor Pages
 -MVC
 -ASP.NET CORE
+-JavaScript
 
 
 ### Uczestnicy projektu:
